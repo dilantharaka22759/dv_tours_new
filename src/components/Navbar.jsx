@@ -17,7 +17,6 @@ return (
 <li className="nav-item"><NavLink className="nav-link" to="/tours">Tours</NavLink></li>
 <li className="nav-item"><NavLink className="nav-link" to="/about">About</NavLink></li>
 <li className="nav-item"><NavLink className="nav-link" to="/contact">Contact</NavLink></li>
-<li className="nav-item ms-3"><Link className="btn btn-primary" to="/booking">Book Now</Link></li>
 </ul>
 </div>
 </div>
