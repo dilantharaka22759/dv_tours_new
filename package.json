@@ -1,8 +1,9 @@
 {
-  "name": "dv_tours",
+  "name": "dv_tours_new",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://dilantharaka22759.github.io/dv_tours_new",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -11,7 +12,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://dilantharaka22759.github.io/dv_tours",
   "dependencies": {
     "bootstrap": "^5.3.2",
     "cors": "^2.8.5",
