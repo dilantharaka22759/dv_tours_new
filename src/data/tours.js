@@ -12,8 +12,8 @@ export const TOURS = [
   },
   {
     id: 't002',
-    title: 'South Coast Beaches — 5 Days',
-    days: 5,
+    title: 'Hill Country Nuwara Eliya — 3 Days',
+    days: 3,
     price: 240,
     img: import.meta.env.BASE_URL + 'assets/tour2.jpg',
     short: 'Relax on Mirissa, Unawatuna and Galle Fort.',
@@ -21,7 +21,7 @@ export const TOURS = [
   },
   {
     id: 't003',
-    title: 'Yala Safari — 1 Day',
+    title: 'South Coast Beaches — 5 Days',
     days: 1,
     price: 150,
     img: import.meta.env.BASE_URL + 'assets/tour3.jpg',
@@ -30,7 +30,7 @@ export const TOURS = [
   },
   {
     id: 't004',
-    title: 'Additional Tour Example',
+    title: 'Yala Safari — 1 Day',
     days: 2,
     price: 100,
     img: import.meta.env.BASE_URL + 'assets/tour4.jpg',
