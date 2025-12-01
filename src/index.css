@@ -2,7 +2,7 @@
 --primary:#0d6efd;
 }
 body{background:#f8f9fa;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial}
-.hero{background-image: linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('/assets/tour1.jpg');background-size:cover;background-position:center;height:68vh;display:flex;align-items:center}
+.hero{background-image: linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('/assets/hero.jpg');background-size:cover;background-position:center;height:68vh;display:flex;align-items:center}
 .hero .container{color:#fff}
 .card-hover{transition:transform .22s, box-shadow .22s}
 .card-hover:hover{transform:translateY(-6px);box-shadow:0 10px 30px rgba(0,0,0,.12)}
