@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/dv_tours_new/'  // for GitHub Pages
+  base: '/dv_tours_new/'  // for GitHub Pages deployment
 });

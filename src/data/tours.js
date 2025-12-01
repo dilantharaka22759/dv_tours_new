@@ -7,8 +7,8 @@ export const TOURS = [
     days: 2,
     price: 90,
     img: import.meta.env.BASE_URL + 'assets/tour1.jpg',
-    short: 'Tea plantations, waterfalls and scenic train rides.',
-    details: 'Full itinerary: Train ride, tea factory visits, hiking.'
+    short: 'Cultural Site visiting',
+    details: 'Full itinerary: site visit, cultural foods'
   },
   {
     id: 't002',
@@ -16,8 +16,8 @@ export const TOURS = [
     days: 3,
     price: 240,
     img: import.meta.env.BASE_URL + 'assets/tour2.jpg',
-    short: 'Relax on Mirissa, Unawatuna and Galle Fort.',
-    details: 'Whale watching (seasonal), snorkeling and historic Galle.'
+    short: 'Tea plantations, waterfalls and scenic train rides.',
+    details: 'Full itinerary: Train ride, tea factory visits, hiking.'
   },
   {
     id: 't003',
@@ -25,8 +25,8 @@ export const TOURS = [
     days: 1,
     price: 150,
     img: import.meta.env.BASE_URL + 'assets/tour3.jpg',
-    short: 'Get the amazing wildlife experience.',
-    details: 'Yala Safari Tour with 4WD Jeep.'
+    short: 'Relax on Mirissa, Unawatuna and Galle Fort.',
+    details: 'Whale watching (seasonal), snorkeling and historic Galle.'
   },
   {
     id: 't004',
@@ -34,7 +34,7 @@ export const TOURS = [
     days: 2,
     price: 100,
     img: import.meta.env.BASE_URL + 'assets/tour4.jpg',
-    short: 'Sample tour description.',
-    details: 'Full itinerary details here.'
+    short: 'Get the amazing wildlife experience.',
+    details: 'Yala Safari Tour with 4WD Jeep.'
   }
 ];
