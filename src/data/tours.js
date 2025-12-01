@@ -4,7 +4,7 @@ export const TOURS = [
     title: 'Cultural Triangle — 3 Days',
     days: 3,
     price: 120,
-    img: '/~/assets/tour1.jpg',
+    img: '/assets/tour1.jpg',
     short: 'Explore Anuradhapura, Polonnaruwa and Sigiriya.',
     details: 'Full itinerary: Day1: Anuradhapura... Day2: Sigiriya... Day3: Polonnaruwa...'
   },
