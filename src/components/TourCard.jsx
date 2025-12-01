@@ -15,7 +15,7 @@ export default function TourCard({ tour }) {
               to={`/tours/${tour.id}`}
               className="btn btn-outline-primary btn-sm"
             >
-              View
+              More Info
             </Link>
           </div>
         </div>
